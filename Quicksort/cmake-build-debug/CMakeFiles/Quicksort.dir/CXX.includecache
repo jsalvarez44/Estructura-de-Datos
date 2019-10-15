@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/Quicksort/Ingreso.h
+iostream
+-
+string
+-
+
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/Quicksort/Quicksort.h
+iostream
+-
+vector
+-
+
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/Quicksort/main.cpp
+cstdlib
+-
+Quicksort.h
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/Quicksort/Quicksort.h
+Ingreso.h
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/Quicksort/Ingreso.h
+
