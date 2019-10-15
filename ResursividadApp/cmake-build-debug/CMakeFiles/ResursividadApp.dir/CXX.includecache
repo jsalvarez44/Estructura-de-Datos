@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/ResursividadApp/Dato.h
+iostream
+-
+
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/ResursividadApp/Ingreso.h
+iostream
+-
+string
+-
+
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/ResursividadApp/main.cpp
+iostream
+-
+Dato.h
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/ResursividadApp/Dato.h
+Ingreso.h
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/ResursividadApp/Ingreso.h
+
