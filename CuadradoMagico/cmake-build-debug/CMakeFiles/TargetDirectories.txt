@@ -1,0 +1,3 @@
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/CuadradoMagico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/CuadradoMagico/cmake-build-debug/CMakeFiles/CuadradoMagico.dir
+C:/Users/SEBASTIAN ALVAREZ/CLionProjects/CuadradoMagico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
