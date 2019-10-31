@@ -1,7 +1,7 @@
 
 #                                       Universidad de las Fuerzas Armadas ESPE
-#                                          Carrera de Ingenieria de Software
-Proyectos elaborados para la materia de Estructura de Datos durante el tercer semestre de la carrera
+
+Proyectos elaborados para la materia de Estructura de Datos durante el tercer semestre de la carrera de ingenieria de software
 
 Autor global: Sebastian Alvarez
 
