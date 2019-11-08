@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\SEBASTIAN ALVAREZ\source\repos\FactorialRecursivo\FactorialRecursivo\Ingreso.h(70,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\FactorialRecursivo\FactorialRecursivo\Ingreso.h(93,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\FactorialRecursivo\FactorialRecursivo\Ingreso.h(110,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\FactorialRecursivo\FactorialRecursivo\Main.cpp(14,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FactorialRecursivo.vcxproj -> C:\Users\SEBASTIAN ALVAREZ\source\repos\FactorialRecursivo\Debug\FactorialRecursivo.exe

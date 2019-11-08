@@ -1,3 +1,0 @@
-C:/Users/SEBASTIAN ALVAREZ/CLionProjects/ResursividadApp/cmake-build-debug/CMakeFiles/ResursividadApp.dir
-C:/Users/SEBASTIAN ALVAREZ/CLionProjects/ResursividadApp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/SEBASTIAN ALVAREZ/CLionProjects/ResursividadApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
