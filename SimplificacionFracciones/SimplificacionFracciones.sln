@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimplificacionFracciones", "SimplificacionFracciones\SimplificacionFracciones.vcxproj", "{85665AAB-A2C4-4C7D-A714-D1D49A03EAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85665AAB-A2C4-4C7D-A714-D1D49A03EAAC}.Debug|x64.ActiveCfg = Debug|x64
+		{85665AAB-A2C4-4C7D-A714-D1D49A03EAAC}.Debug|x64.Build.0 = Debug|x64
+		{85665AAB-A2C4-4C7D-A714-D1D49A03EAAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{85665AAB-A2C4-4C7D-A714-D1D49A03EAAC}.Debug|x86.Build.0 = Debug|Win32
+		{85665AAB-A2C4-4C7D-A714-D1D49A03EAAC}.Release|x64.ActiveCfg = Release|x64
+		{85665AAB-A2C4-4C7D-A714-D1D49A03EAAC}.Release|x64.Build.0 = Release|x64
+		{85665AAB-A2C4-4C7D-A714-D1D49A03EAAC}.Release|x86.ActiveCfg = Release|Win32
+		{85665AAB-A2C4-4C7D-A714-D1D49A03EAAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8175DBB-8074-4CB4-96F1-3380C84D5D55}
+	EndGlobalSection
+EndGlobal
