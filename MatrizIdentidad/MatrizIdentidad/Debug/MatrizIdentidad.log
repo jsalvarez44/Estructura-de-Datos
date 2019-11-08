@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\SEBASTIAN ALVAREZ\source\repos\MatrizIdentidad\MatrizIdentidad\Ingreso.h(71,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\MatrizIdentidad\MatrizIdentidad\Ingreso.h(94,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\MatrizIdentidad\MatrizIdentidad\Ingreso.h(111,20): warning C4018: '<': signed/unsigned mismatch
+  MatrizIdentidad.vcxproj -> C:\Users\SEBASTIAN ALVAREZ\source\repos\MatrizIdentidad\Debug\MatrizIdentidad.exe
