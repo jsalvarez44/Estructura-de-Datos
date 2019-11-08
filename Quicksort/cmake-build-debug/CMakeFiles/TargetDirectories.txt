@@ -1,3 +1,0 @@
-C:/Users/SEBASTIAN ALVAREZ/CLionProjects/Quicksort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/SEBASTIAN ALVAREZ/CLionProjects/Quicksort/cmake-build-debug/CMakeFiles/Quicksort.dir
-C:/Users/SEBASTIAN ALVAREZ/CLionProjects/Quicksort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
