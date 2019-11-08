@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\SEBASTIAN ALVAREZ\source\repos\FuncionesTrigonometricas\FuncionesTrigonometricas\Ingreso.h(70,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\FuncionesTrigonometricas\FuncionesTrigonometricas\Ingreso.h(93,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\FuncionesTrigonometricas\FuncionesTrigonometricas\Ingreso.h(110,34): warning C4018: '>': signed/unsigned mismatch
+  FuncionesTrigonometricas.vcxproj -> C:\Users\SEBASTIAN ALVAREZ\source\repos\FuncionesTrigonometricas\Debug\FuncionesTrigonometricas.exe
