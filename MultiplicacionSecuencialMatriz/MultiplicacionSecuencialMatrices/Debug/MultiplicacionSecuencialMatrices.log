@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\SEBASTIAN ALVAREZ\source\repos\MultiplicacionSecuencialMatrices\MultiplicacionSecuencialMatrices\Ingreso.h(70,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\MultiplicacionSecuencialMatrices\MultiplicacionSecuencialMatrices\Ingreso.h(93,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\MultiplicacionSecuencialMatrices\MultiplicacionSecuencialMatrices\Ingreso.h(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SEBASTIAN ALVAREZ\source\repos\MultiplicacionSecuencialMatrices\MultiplicacionSecuencialMatrices\Matriz.h(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MultiplicacionSecuencialMatrices.vcxproj -> C:\Users\SEBASTIAN ALVAREZ\source\repos\MultiplicacionSecuencialMatrices\Debug\MultiplicacionSecuencialMatrices.exe
